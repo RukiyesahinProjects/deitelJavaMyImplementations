@@ -13,5 +13,17 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+MathRukiye mathRukiye = new MathRukiye();
+        mathRukiye.sum(5, 10);
+       // MathRukiye.sum(5, 10);
+        MathRukiye.max(3,6,7);
+        MathRukiye.min(3,6,7);
+        Math.max(3, 6);
+        String s = "";
+        s = MathRukiye.randomString(10, 20);
+        System.out.println(s);
+        System.out.println(MathRukiye.randomString(10, 20));
+        System.out.println(MathRukiye.RollDice(1,6));
+
     }
 }
