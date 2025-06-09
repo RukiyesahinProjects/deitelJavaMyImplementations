@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankingProject/BankingProject.iml" filepath="$PROJECT_DIR$/BankingProject/BankingProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrapsGame/CrapsGame.iml" filepath="$PROJECT_DIR$/CrapsGame/CrapsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeHierarchy/EmployeeHierarchy.iml" filepath="$PROJECT_DIR$/EmployeeHierarchy/EmployeeHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/EmployeesProject/EmployeesProject.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/EmployeesProject/EmployeesProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FifeUniteControlStatements/FifeUniteControlStatements.iml" filepath="$PROJECT_DIR$/FifeUniteControlStatements/FifeUniteControlStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritancePoint/InheritancePoint.iml" filepath="$PROJECT_DIR$/InheritancePoint/InheritancePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/LibrartBookSystem/LibrartBookSystem.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/LibrartBookSystem/LibrartBookSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/OOPAtm/OOPAtm.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/OOPAtm/OOPAtm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/Savingsaccount/Savingsaccount.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/Savingsaccount/Savingsaccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapeHierarchy/ShapeHierarchy.iml" filepath="$PROJECT_DIR$/ShapeHierarchy/ShapeHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/Student/Student.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/deitelJavaMyImplementations.iml" filepath="$PROJECT_DIR$/.idea/deitelJavaMyImplementations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectOrientedCh8/objectOrientedCh8.iml" filepath="$PROJECT_DIR$/objectOrientedCh8/objectOrientedCh8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seventhUniteArray/seventhUniteArray.iml" filepath="$PROJECT_DIR$/seventhUniteArray/seventhUniteArray.iml" />
+    </modules>
+  </component>
+</project>
